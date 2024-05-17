@@ -1,0 +1,10 @@
+digraph 
+{
+    "main.cpp" -> "Widget.h"
+    "Widget.cpp" -> 
+    {
+        "Widget.h";
+        "WidgetPrivate.h";
+    }
+    "WidgetPrivate.cpp" -> "WidgetPrivate.h"
+}

@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "workspaceKeybindings.clangd.restart.enabled":true,
+        "editor.inlayHints.enabled":"off",
+        "editor.parameterHints.enabled": false,
+        "editor.snippetSuggestions": "none",
+        "editor.wordBasedSuggestions": "off" 
+    }
+}
